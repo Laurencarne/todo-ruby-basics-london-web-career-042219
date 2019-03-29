@@ -18,8 +18,8 @@ def return_a_value(phrase)
   phrase
 end
 
-def last_evaluated_value
-
+def last_evaluated_value(word)
+  word
 end
 
 def pizza_party
